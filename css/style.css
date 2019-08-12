@@ -1,3 +1,6 @@
+img{
+    width: 100px;
+}
 
 body:before {
     background: url("https://a.disquscdn.com/1380582764/img/signup-banner.png") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
